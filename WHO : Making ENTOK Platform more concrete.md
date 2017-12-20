@@ -82,7 +82,9 @@ Bongsung Park, CEO of Nekki Entertainment Co., is called the Midas touch of reco
 
 Through various broadcasting media and on/off-line channels, it promotes public relations and marketing of new entertainment items. It plans the performance of entertainment items and promotion with various media and fans. It will also continue to expand partnership with entertainment organizations.
 
-![](media/image12.png)**Korea Entertainment Producer's Association Inc.**
+![](media/image12.png)
+
+**Korea Entertainment Producer's Association Inc.**
 
 Established in 1992, Registered organization of the Ministry of Culture, Sports and Tourism in South Korea.
 
