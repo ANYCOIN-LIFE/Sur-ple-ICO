@@ -1,24 +1,22 @@
 -	WHY : Cryptocurrency into the entertainment market
 
-> -	[Current status and prospect of Hallyu entertainment industry](#Current-status-and-prospect-of-Hallyu-entertainment-industry)
+	-	[Current status and prospect of Hallyu entertainment industry](#current-status-and-prospect-of-hallyu-entertainment-industry)
 
--	[Change of fund-raising way : ICO (Initial Coin Offering)](#Change-of-fund-raising-way-:-ICO-(Initial-Coin-Offering)\)
+-	[Change of fund-raising way : ICO](#change-of-fund-raising-way-ico)
 
--	[Solution for entertainment market with cryptocurrency](#Solution-for-entertainment-market-with-cryptocurrency)
+-	[Solution for entertainment market with cryptocurrency](#solution-for-entertainment-market-with-cryptocurrency)
 
--	[Securement of primary base technology](#Securement-of-primary-base-technology)
+-	[Securement of primary base technology](#securement-of-primary-base-technology)
 
 **WHY : Cryptocurrency into the entertainment market**
 
 As a variety of creative businesses are emerging, those are combining their products with IoT environment and utilizing it as a stepping stone to grow. On the other hand, Hallyu entertainment market is built around large entertainment agency, which is not adequately adapted to find and nurture various entertainment items and to enter the market. Things9 aims to consider these issues together and look for solutions through the convergence of technology and culture.
 
-Current status and prospect of Hallyu entertainment industry
-============================================================
+### Current status and prospect of Hallyu entertainment industry
 
 Let\'s observe the current status of South Korea, which sets regulatory barriers interrupting the development and growth of various entertainment items. Even if an idol group, great item, is formed, it is difficult to commercialize the product except for large agencies due to limitations in infrastructure such as idol group development, fund-raising, operation and marketing. On the other hand, the international situation is acting as a serious variable for large agencies. The economic impact of Chinese retaliation over THAAD and Japan\'s anti-Korean sentiment has been more than expected. The economic damage of South Korea due to a boycott on Korean product is estimated at 8.5 trillion KRW according to statistics. There is no proper countermeasure to cope with international circumstances and economic issues. Especially, small and medium sized entertainment companies are having difficulty in finding solutions for funds and human resources for globalization. Consequentially, it is inevitable to have investment plans that will continue to search for high-quality entertainment items aimed at global market, which are not limited to specific countries in Hallyu entertainment market.
 
-Change of fund-raising way : ICO (Initial Coin Offering)
-========================================================
+### Change of fund-raising way : ICO
 
 Previously, venture capital has been a wide spread medium of fund-raising. Currently, the development of block chains and cryptocurrency technology is changing trend across business fund-raising. Now it is possible to attract Korean and global investments in a short period of time through the Internet and mobile device. It brings about change not only in the raising method, but also in the size of the investment. The size of investment through ICO has already overtaken that of existing venture capital. Bitcoin is now at the \$5,000 mark in 2017 and there has been increasing interest in cryptocurrency around the world. As of September 25^th^, 2017, the global virtual currency market is worth about \$130 billion (approximately 150 trillion KRW).
 
@@ -41,8 +39,7 @@ Success cases of global ICO
 
 Globally, it has been attempting to integrate various business platform developments and services utilizing blockchain and the increase of value cognition is consistently leading to the increase of ICO. As you can see in the Gartner report (2017) mentioned previously, blockchain technology has stepped into the stabilization stage and is universally applied in a diversity of fields. Various policy changes have been detected in South Korea and overseas. As the policy becomes specific and stable, the ICO market will grow rapidly. The key to investment success in ICO is to find a convergence model with other concrete business. Things9 was able to find a solution in Hallyu entertainment market.
 
-Solution for entertainment market with cryptocurrency
-=====================================================
+### Solution for entertainment market with cryptocurrency
 
 Entertainment producers are attempting the change to the direction of creating brand value across cultural content beyond existing record production planning and management. In order to develop a variety of high-quality entertainment items keeping up with the changes in the management trends, it is necessary to establish an environment and foundation in which investments can flow freely, which is not concentrated in large-scale agencies. Things9 desires to find a solution for Hallyu entertainment market in the latest technology based on blockchain.
 
@@ -60,8 +57,7 @@ A lot of resources are needed to find and develop high-quality entertainment ite
 
 Cryptocurrency has no government regulators. The circulation, verification, and management of currency can be done autonomously because the cryptocurrency market is steadily growing on the basis of its reliable technology. This is reflected in the fact that the daily trading volume of cryptocurrency market in South Korea is about 2.6 trillion KRW, which is equivalent to that of KOSDAQ market. It does not mean simply that the market is growing but it means that the market is maturing. What is the strength of ICO which makes the market mature? It is based on a solution that supports scalability and rapid transaction in a robust IT infrastructure. ENTOK is the best solution for discovery, production, distribution and consumption of entertainment that investors, entertainment producers and consumers can use when and where it is needed.
 
-Securement of primary base technology
-=====================================
+### Securement of primary base technology
 
 Things9 has developed all the necessary base solutions for market invigoration and will focus on collaborating with related organizations to raise fund and develop entertainment items through ICO. The following is the base solutions developed by Things9.
 

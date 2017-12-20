@@ -1,8 +1,8 @@
--	[Biz value 1 : Value for investors](#Biz-value-1-:-Value-for-investors)
+-	[Value for investors](#value-for-investors)
 
--	[Biz value 2 : Value for Items Market](#Biz-value-2-:-Value-for-Items-Market)
+-	[Value for Items Market](#value-for-items-market)
 
--	[Biz value 3 : Proposal of the vision for new ecosystem to entertainment market](#Biz-value-3-:-Proposal-of-the-vision-for-new-ecosystem-to-entertainment-market)
+-	[Proposal of the vision for new ecosystem to entertainment market](#proposal-of-the-vision-for-new-ecosystem-to-entertainment-market)
 
 "Blockchain into the Entertainment Market"
 
@@ -30,18 +30,15 @@ This change in Hallyu entertainment market, especially in idol market, raises K-
 
 ENTOK platform pursues real value on business as follows:
 
-Biz value 1 : Value for investors
-=================================
+### Value for investors
 
 Funds raised from Investors are used in entertainment business promotion and Token[^2] operating. Investors will receive dividends from the revenue generated through the commercialization of items by entertainment agency. Investors can earn profits by selling their token directly on the exchanges.
 
-Biz value 2 : Value for Items Market
-====================================
+### Value for Items Market
 
 Token based on blockchain technology ensures transparency throughout its purchasing, distribution and consumption processes. Transparent operation and report of token distribution provide credibility for both investors and buyers. Token issued through ENTOK cannot be falsified and altered, ensuring reliability in the market. Continuous research and development of various entertainment items guarantee scalability into the broader market.
 
-Biz-value 3 : Proposal of the vision for new ecosystem to entertainment market
-==============================================================================
+### Proposal of the vision for new ecosystem to entertainment market
 
 ENTOK platform supports continuous development and improvement of high quality Hallyu entertainment contents as well as creation and sale of entertainment exclusive token.
 
