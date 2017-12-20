@@ -1,3 +1,5 @@
+[Executive Summary](#executive-summary)
+
 -	[Value for investors](#value-for-investors)
 
 -	[Value for Items Market](#value-for-items-market)
@@ -10,7 +12,7 @@ Investment platform for Entertainment based in blockchain
 
 **ENTOK** (Entertainment Token) **Platform**
 
-**Executive Summary**
+### **Executive Summary**
 
 Led by IoT, Social Media Networks, fintech, and blockchain, wind of change in the 4^th^ industrial revolution is blowing fiercely. Especially, all eyes are watching at blockchain technology (armed with the advantage of decentralization, transparency, security, etc.) and cryptocurrency sector; the technology is gradually becoming more stable and wide spread.
 

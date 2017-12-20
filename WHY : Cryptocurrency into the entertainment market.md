@@ -1,6 +1,6 @@
--	WHY : Cryptocurrency into the entertainment market
+[WHY : Cryptocurrency into the entertainment market](#why-cryptocurrency-into-the-entertainment-market)
 
-	-	[Current status and prospect of Hallyu entertainment industry](#current-status-and-prospect-of-hallyu-entertainment-industry)
+-	[Current status and prospect of Hallyu entertainment industry](#current-status-and-prospect-of-hallyu-entertainment-industry)
 
 -	[Change of fund-raising way : ICO](#change-of-fund-raising-way-ico)
 
@@ -8,7 +8,7 @@
 
 -	[Securement of primary base technology](#securement-of-primary-base-technology)
 
-**WHY : Cryptocurrency into the entertainment market**
+### **WHY : Cryptocurrency into the entertainment market**
 
 As a variety of creative businesses are emerging, those are combining their products with IoT environment and utilizing it as a stepping stone to grow. On the other hand, Hallyu entertainment market is built around large entertainment agency, which is not adequately adapted to find and nurture various entertainment items and to enter the market. Things9 aims to consider these issues together and look for solutions through the convergence of technology and culture.
 
