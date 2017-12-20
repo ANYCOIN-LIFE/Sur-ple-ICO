@@ -1,7 +1,9 @@
-ICO
+**Sur-ple ICO**
 ===
 
-ICO information using AnyCoin
+Blockchain into the Entertainment Market !!
+
+## **ENTOK PLATFORM**
 
 ### Index
 
